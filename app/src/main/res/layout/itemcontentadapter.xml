@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="no about"
-        android:textSize="10dp"
+        android:textSize="15dp"
         android:id="@+id/text1"
         android:gravity="center_horizontal"/>
 
